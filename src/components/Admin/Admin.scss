@@ -12,7 +12,11 @@
         border: 1px solid green;
       }
       .admin-main{
-
+        .use-pagination{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
       }
     }
 }
