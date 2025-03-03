@@ -12,10 +12,10 @@
         border: 1px solid green;
       }
       .admin-main{
+        height: calc(100vh - 50px);
         .use-pagination{
           display: flex;
           justify-content: center;
-          align-items: center;
         }
       }
     }
